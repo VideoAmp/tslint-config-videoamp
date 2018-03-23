@@ -8,6 +8,7 @@ module.exports = {
         "no-this-assignment": false,
         "jsx-no-multiline-js": false,
         "jsx-boolean-value": false,
-        "react-this-binding-issue": false
+        "react-this-binding-issue": false,
+        "jsx-wrap-multiline": false
     }
 }

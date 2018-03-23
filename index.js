@@ -19,6 +19,7 @@ module.exports = {
         "function-name": false,
         "import-name": false,
         "no-submodule-imports": false,
-        "match-default-export-name": false
+        "match-default-export-name": false,
+        "no-backbone-get-set-outside-model": false
     }
 }
