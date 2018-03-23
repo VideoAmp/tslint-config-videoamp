@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-videoamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "VideoAmp's TSLint/Prettier config for Typescript projects",
   "main": "index.js",
   "repository": "git@github.com:VideoAmp/tslint-config-videoamp.git",
