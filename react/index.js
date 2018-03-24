@@ -9,6 +9,7 @@ module.exports = {
         "jsx-no-multiline-js": false,
         "jsx-boolean-value": false,
         "react-this-binding-issue": false,
-        "jsx-wrap-multiline": false
+        "jsx-wrap-multiline": false,
+        "no-any": false
     }
 }
